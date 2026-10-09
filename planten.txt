@@ -1,0 +1,8 @@
+plant water_per_dag
+tomatenplant;1.2;2
+cactus;0.015;1
+roos;1.8;3
+lavendel;0.0;2
+wortel;0.25;1
+krop sla;0.22;1
+appelboom;6.0;4
